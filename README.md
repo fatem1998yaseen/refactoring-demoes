@@ -1,2 +1,2 @@
 # Refactoring Samples
-
+int age;
